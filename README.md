@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Mobinul Islam Mahi
 #### Web Devloper
-![Web Devloper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1314473823647887360/1634407841/1500x500)
 
 I made this project with my best responsibilities. Most of the time I am doing coding but some technology I work fell enjoy like WordPress.  I have already created my portfolio website. My website link is "https://mobinulislammahi.epizy.com".
 
@@ -11,7 +12,6 @@ Skills: HTML / CSS / JAVASCRIPT / BOOTSTRAP / WORDPRESS
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web devlopment 
 
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1314473823647887360/1634407841/1500x500)
 
 
 
